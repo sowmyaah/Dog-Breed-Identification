@@ -1,0 +1,27 @@
+# Virtual Environment
+dogenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset (large files)
+dataset/
+dataset_20/
+
+# Uploaded images
+static/uploads/
+
+# Model file (optional – if large)
+*.h5
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
